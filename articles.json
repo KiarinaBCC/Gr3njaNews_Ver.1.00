@@ -1,0 +1,18 @@
+[
+  {
+    "title": "サンプルニュース1",
+    "content": "これは記事の内容です。詳細なテキストをここに書けます。",
+    "thumbnail": "https://example.com/image1.jpg",
+    "author": "作者名",
+    "tags": ["タグ1", "タグ2"],
+    "date": "2025-08-26"
+  },
+  {
+    "title": "サンプルニュース2",
+    "content": "もう一つの記事の内容。",
+    "thumbnail": "https://example.com/image2.jpg",
+    "author": "別の作者",
+    "tags": ["タグ2", "UserNews"],
+    "date": "2025-08-25"
+  }
+]
